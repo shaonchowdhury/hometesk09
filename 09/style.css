@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#row{
+    width: 100%;
+    float: left;
+
+    padding-top: 20px;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+
+}
+
+
+/* .logo-part */
+.logo-part{
+    width: 25%;
+    float: left;
+}
+
+.logo-part img{
+    width: 80%;
+}
+
+
+/* menu-part */
+.menu-part{
+    width: 50%;
+    float: left;
+    text-decoration: none;
+}
+
+.menu-part ul{
+    text-decoration: none;
+    float: left;
+    
+}
+
+.menu-part li{
+    
+    
+}
+
+.menu-part ul li a{
+    text-decoration: none;
+
+}
+
+/* search-part */
+.search-part{
+    width: 25%;
+    float: left;
+    padding: 30px 5px;
+}
+
+
+
+/* Hero Part  */
+#hero{
+    width: 100%;
+    float: left;
+
+}
+
+.hero-writing-part1{
+    width: 30%;
+    float: left;
+    text-align: justify;
+    padding: 60px 20px;
+}
+
+.hero-writing-part2{
+    width: 30%;
+    float: left;
+    text-align: justify;
+    padding: 60px 20px;
+}
+
+.hero-img-part{
+    width: 40%;
+    float: left;
+    
+}
+.hero-img-part img{
+    width: 90%;
+    height: 90%;
+    padding: 10px;
+}
